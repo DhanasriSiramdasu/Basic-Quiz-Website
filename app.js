@@ -5,7 +5,7 @@ const questions=[
             { text:"Elephant",correct:true},
             { text:"Giraffe",correct:false},
             { text:"Cheetah",correct:false},
-            { text:"Humming bird",correct:false}
+            { text:"Humming bird",correct:false},
         ]
     },
 
